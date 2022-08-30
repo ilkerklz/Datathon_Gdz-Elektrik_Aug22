@@ -3,8 +3,8 @@ Gdz Elektrik Datahon - August 2022
 
 > Part-1: Prediction of unplanned power outages
 
-https://www.kaggle.com/t/19c49f7cc99c416f8d0cd12b59d14ac8
+https://www.kaggle.com/t/2008398c400d4198be838035d21afe58
 
 > Part-2: Prediction of call center requests arising from unplanned power outages
 
-https://www.kaggle.com/t/5475a3a2e59445d9b097fa308d4c4792
+https://www.kaggle.com/t/cbf250aca7c046d28fdff02174a04e93
